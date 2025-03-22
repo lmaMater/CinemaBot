@@ -71,9 +71,11 @@ python cinema_bot.py
 ```
 
 ### Приятного использования!
-Бот доступен в Telegram по нику [@priyatniy_vecher_bot](https://t.me/priyatniy_vecher_bot), но вероятнее всего сейчас не крутится и придется разворачивать самому.
+Бот доступен в Telegram по нику [@priyatniy_vecher_bot](https://t.me/priyatniy_vecher_bot), но вероятнее всего сейчас не крутится и придется разворачивать самоcтоятельно.
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-    <img src="./images/bot_profile.png" style="width: 45%; height: auto; object-fit: contain;">
-    <img src="./images/bot_example.png" style="width: 45%; height: auto; object-fit: contain;">
+    <img src="./images/bot_example1.png" style="width: 30%; height: auto; object-fit: contain;">
+    <img src="./images/bot_example2.png" style="width: 30%; height: auto; object-fit: contain;">
+    <img src="./images/bot_example3.png" style="width: 30%; height: auto; object-fit: contain;">
 </div>
+
 
