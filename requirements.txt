@@ -1,0 +1,5 @@
+aiogram
+playwright
+rapidfuzz
+aiohttp
+python-dotenv
